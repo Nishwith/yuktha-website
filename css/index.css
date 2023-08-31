@@ -1,0 +1,18 @@
+.con{
+    height: 100vh;
+    background:linear-gradient(rgba(0, 0,0,0.9),rgba(0, 0,0,0.9)), url("/images/img1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+@font-face {
+    font-family: 'BricolageGrotesque';
+    src: url('/fonts/BricolageGrotesque_28pt-ExtraLight.ttf');
+}
+.des{
+    font-family:'BricolageGrotesque';
+}
+.motos{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

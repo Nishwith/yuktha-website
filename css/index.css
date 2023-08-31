@@ -1,6 +1,6 @@
-.con{
+.con {
     height: 100vh;
-    background:linear-gradient(rgba(0, 0,0,0.9),rgba(0, 0,0,0.9)), url("/images/img1.png");
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url("/images/img1.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -10,9 +10,11 @@
     font-family: 'BricolageGrotesque';
     src: url('/fonts/BricolageGrotesque_28pt-ExtraLight.ttf');
 }
-.des{
-    font-family:'BricolageGrotesque';
+
+.des {
+    font-family: 'BricolageGrotesque';
 }
 
-
-
+.bi {
+    color: black;
+}

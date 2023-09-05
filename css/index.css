@@ -14,3 +14,31 @@
 .des {
     font-family: 'BricolageGrotesque';
 }
+
+.white {
+    color: white;
+}
+
+.insta:hover {
+    color: orange;
+}
+
+.ytube:hover {
+    color: red;
+}
+
+.whats:hover {
+    color: green;
+}
+
+.linkdin:hover {
+    color: rgb(40, 40, 212);
+}
+
+.twitter:hover {
+    color: rgb(115, 215, 248);
+}
+
+.mail:hover {
+    color: red;
+}

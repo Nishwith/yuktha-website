@@ -1,50 +1,47 @@
-.con {
-    height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url("/images/img1.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
-}
-
 @font-face {
     font-family: 'BricolageGrotesque';
     src: url('/fonts/BricolageGrotesque_28pt-ExtraLight.ttf');
+}
+
+.con {
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.8)), url("/images/img1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
 }
 
 .des {
     font-family: 'BricolageGrotesque';
 }
 
-.white{
+.white {
     color: white;
 }
 
-.insta:hover{
-    color: orange;
-
+.insta:hover {
+    background-image: linear-gradient(to right, #FFDC80, #FCAF45, #F77737, #F56040, #FD1D1D, #E1306C, #C13584, #833AB4, #5851DB, #405DE6);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
 }
 
-.ytube:hover{
+.ytube:hover {
     color: red;
-
 }
 
-.whats:hover{
+.whats:hover {
     color: green;
-
 }
 
-.linkdin:hover{
+.linkdin:hover {
     color: rgb(40, 40, 212);
-
 }
 
-.twitter:hover{
+.twitter:hover {
     color: rgb(115, 215, 248);
-
 }
 
-.mail:hover{
-    color:red;
-
+.mail:hover {
+    color: red;
 }

@@ -1,0 +1,63 @@
+.con {
+    margin-top: 50px;
+    height: 40vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.9)), url("/images/img1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.des {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bg-light {
+    color: black;
+}
+
+.title {
+    color: #ff9900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 2px;
+}
+
+.bi {
+    color: black;
+}
+
+.insta:hover {
+    background-image: linear-gradient(to right, #FFDC80, #FCAF45, #F77737, #F56040, #FD1D1D, #E1306C, #C13584, #833AB4, #5851DB, #405DE6);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-size: calc(1.375rem + 1.3vw)!important;
+}
+
+.ytube:hover {
+    font-size: calc(1.375rem + 1.3vw)!important;
+    color: red;
+}
+
+.whats:hover {
+    color: green;
+    font-size: calc(1.375rem + 1.3vw)!important;
+}
+
+.linkdin:hover {
+    font-size: calc(1.375rem + 1.3vw)!important;
+    color: rgb(31, 31, 213);
+}
+
+.twitter:hover {
+    font-size: calc(1.375rem + 1.3vw)!important;
+    color: rgb(115, 215, 248);
+}
+
+.mail:hover {
+    font-size: calc(1.375rem + 1.3vw)!important;
+    color: red;
+}
+
+.card {
+    border: none!important;
+}

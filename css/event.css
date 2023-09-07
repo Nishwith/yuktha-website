@@ -1,0 +1,12 @@
+.img-height{
+    height: 450px;
+}
+
+@media only screen and (max-width: 600px) {
+  
+    .img-height{
+     height: 320px;
+    }
+  }
+  
+

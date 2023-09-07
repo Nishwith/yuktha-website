@@ -1,18 +1,10 @@
-.con {
-    margin-top: 50px;
-    height: 40vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.9)), url("/images/img1.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
-}
 
 .des {
     font-family: 'Times New Roman', Times, serif;
 }
 
 .bg-light {
-    color: black;
+    color: white;
 }
 
 .title {
@@ -22,7 +14,7 @@
 }
 
 .bi {
-    color: black;
+    color:white;
 }
 
 .insta:hover {

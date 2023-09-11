@@ -71,3 +71,8 @@
 .card {
     border: none!important;
 }
+
+.hImg{
+    border-radius: 50%;
+    height: 300px;
+}
